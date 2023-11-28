@@ -1,0 +1,39 @@
+{
+	"random": "12",
+	"random float": "27.287",
+	"bool": "true",
+	"date": "1996-12-05",
+	"regEx": "hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you",
+	"enum": "generator",
+	"firstname": "Dania",
+	"lastname": "Mintz",
+	"city": "Auckland",
+	"country": "Palau",
+	"countryCode": "TN",
+	"email uses current data": "Dania.Mintz@gmail.com",
+	"email from expression": "Dania.Mintz@yopmail.com",
+	"array": [
+		"Jacenta",
+		"Kara-Lynn",
+		"Frances",
+		"Laure",
+		"Susette"
+	],
+	"array of objects": [
+		{
+			"index": "0",
+			"index start at 5": "5"
+		},
+		{
+			"index": "1",
+			"index start at 5": "6"
+		},
+		{
+			"index": "2",
+			"index start at 5": "7"
+		}
+	],
+	"Celene": {
+		"age": "18"
+	}
+}
