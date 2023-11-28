@@ -1,4 +1,4 @@
-name: TruffleHog Secrets Scan
+name: Security Scans
 on: [pull_request]
 jobs:
   TruffleHog:
